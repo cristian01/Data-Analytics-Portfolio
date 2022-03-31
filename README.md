@@ -5,6 +5,4 @@ Self-thought Data Analyst looking for a entry-level role where I can utilize my 
 In this small project I will be reading the US Economic data CSV file using Pandas and display a chart showing how changes in GDP impact unemployment
 rate. 
 
-```
-
-```
+[US Economic Data Project](https://github.com/cristian01/Data-Analytics-Portfolio/blob/main/US_Economic_Data.ipynb).
