@@ -6,3 +6,9 @@ In this small project I will be reading the US Economic data CSV file using Pand
 rate. 
 
 [US Economic Data Project](https://github.com/cristian01/Data-Analytics-Portfolio/blob/main/US_Economic_Data.ipynb).
+
+## Analysing and predict house prices in King County, United States.
+This project was part of "Data Analysis Using Python" and I was tasked to determine the market price of a house given a set of features such as square footage, number of bedrooms, number of floors etc. The dataset contains house sale prices for King County and was taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2021-01-01).
+
+[Predict house prices in King County](https://github.com/cristian01/Data-Analytics-Portfolio/blob/main/house-prices.ipynb).
+
