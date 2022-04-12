@@ -15,5 +15,5 @@ This project was part of "Data Analysis Using Python" and I was tasked to determ
 ## Identify crime location in San Francisco using Folium maps
 On this small project we're going to identify and visualise the crime location in the city of San Francisco. The data we're working with is taken from police department incidents and imported from IBM cloud storage in csv format. For the purpose of this project, we assume the data have been cleaned and validated before. This was part of Data Visualization with Python course.
 
-[Crime location using Folium maps](https://github.com/cristian01/Data-Analytics-Projects/blob/main/LA-crime-map.ipynb).
+[Crime location using Folium maps](http://nbviewer.org/github/cristian01/Data-Analytics-Projects/blob/main/LA-crime-map.ipynb).
 
