@@ -1,6 +1,7 @@
 # Data Analytics Portfolio
 ## About me
-Self-taught Data Analyst looking for a entry-level role where I can utilize my project based skills acquired during completion of IBM Data Analyst Professional Certificate. I’m passionate about creating comprehensive reports and displaying information on dashboards using different data visualization tools. In addition to this, I have a clear understanding of data analysis process using Excel, SQL and Python.
+Enthusiastic and highly-motivated Data Analyst looking for an entry-level role, where I can utilize my project based skills acquired during completion of IBM Data Analytics Professional Certificate.
+I’m passionate about creating comprehensive reports and displaying information on dashboards using different data visualization tools. In addition to this, I have a clear understanding of data analysis process using Excel, SQL and Python.
 ## US Economic Data using Python and Pandas dataframe
 In this small project I will be reading the US Economic data CSV file using Pandas and display a chart showing how changes in GDP impact unemployment
 rate. 
@@ -16,4 +17,5 @@ This project was part of "Data Analysis Using Python" and I was tasked to determ
 On this small project we're going to identify and visualise the crime location in the city of San Francisco. The data we're working with is taken from police department incidents and imported from IBM cloud storage in csv format. For the purpose of this project, we assume the data have been cleaned and validated before. This was part of Data Visualization with Python course.
 
 [Crime location using Folium maps](http://nbviewer.org/github/cristian01/Portfolio_Projects/blob/main/LA-crime-map.ipynb).
+
 
